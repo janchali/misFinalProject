@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">misFinalProject</string>
+
+    <string-array name="driversArray">
+        <item>Max Verstappen</item>
+        <item>Sergio Perez</item>
+        <item>Lewis Hamilton</item>
+        <item>Valterri Bottas</item>
+        <item>Charles Leclerc</item>
+        <item>Carlos Sainz Jr.</item>
+        <item>Daniel Ricciardo</item>
+        <item>Lando Norris</item>
+        <item>Sebastian Vettel</item>
+        <item>Lance Stroll</item>
+        <item>Pierre Gasly</item>
+        <item>Yuki Tsunoda</item>
+        <item>Esteban Ocon</item>
+        <item>Fernando Alonso</item>
+        <item>Kimi Raikönnen</item>
+        <item>Antonio Giovinazzi</item>
+        <item>George Russell</item>
+        <item>Nikolas Latifi</item>
+        <item>Mick Schumacher</item>
+        <item>Nikita Mazepin</item>
+    </string-array>
+</resources>
